@@ -1,0 +1,40 @@
+.quanju{
+    height: 150px;
+    background-color: rgb(61, 185, 140);
+    overflow: hidden;
+    background-image: none;
+}
+.son{
+    width: 250px;
+    float: left;
+    background-color: blueviolet;
+    margin: 10px auto;
+    text-align: center;
+    font-size: 25px;
+    height: 30px;
+    font-family:kaiti;
+    
+}
+.son:hover{
+    background-color: brown;
+    color: aliceblue;
+}
+.guanggao{
+position: fixed;
+right: 0px;
+top: 400px;
+width:150px;
+}
+.denglu{
+    font-family: kaiti;
+    font-size: 20px;;
+    margin: 2px;
+    background-color: rgb(235, 239, 237);
+    text-align: center;
+    float: left;
+      
+}
+.wangye{
+    height: 1000px;
+    background-color: aqua;
+}
